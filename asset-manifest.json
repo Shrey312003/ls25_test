@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ls25_test/static/css/main.b0e54cf7.css",
+    "main.js": "/ls25_test/static/js/main.c5e0c315.js",
+    "static/media/ICC.png": "/ls25_test/static/media/ICC.25167e37bb17609e929e.png",
+    "static/media/img.png": "/ls25_test/static/media/img.1662c271e466d8672f12.png",
+    "static/media/ugac.png": "/ls25_test/static/media/ugac.aab971f0fea296b2ca32.png",
+    "static/media/Career_Cell_logo.png": "/ls25_test/static/media/Career_Cell_logo.7ea9849f9b17fe3d90b2.png",
+    "static/media/ITC.png": "/ls25_test/static/media/ITC.14844f99358b03610070.png",
+    "static/media/courseTest.webp": "/ls25_test/static/media/courseTest.d1386d0d017995344e37.webp",
+    "static/media/homeimg.webp": "/ls25_test/static/media/homeimg.bfb918c71d8c463c5dda.webp",
+    "static/media/aboutImgBg.png": "/ls25_test/static/media/aboutImgBg.2982f9e268bd390477da.png",
+    "static/media/about-home.webp": "/ls25_test/static/media/about-home.877f5a22c58a3b1b0d6b.webp",
+    "static/media/ISC.png": "/ls25_test/static/media/ISC.a9f661137a7faf232c54.png",
+    "index.html": "/ls25_test/index.html",
+    "main.b0e54cf7.css.map": "/ls25_test/static/css/main.b0e54cf7.css.map",
+    "main.c5e0c315.js.map": "/ls25_test/static/js/main.c5e0c315.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0e54cf7.css",
+    "static/js/main.c5e0c315.js"
+  ]
+}
